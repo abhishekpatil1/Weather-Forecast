@@ -60,7 +60,8 @@ cd weather_forecast
 
 <h2>Issues and Feature Requests</h2>
 
-<p>If you encounter any issues or have ideas for new features, please check the <a href="https://github.com/your-username/weather_forecast/issues">issue tracker</a> to see if it has already been reported. If not, feel free to open a new issue.</p>
+<p>If you encounter any issu![Flutter Application](https://github.com/abhishekpatil1/Weather-Forecast/assets/58555365/5d2e187f-e026-4816-b24c-71dc8de43b00)
+es or have ideas for new features, please check the <a href="https://github.com/your-username/weather_forecast/issues">issue tracker</a> to see if it has already been reported. If not, feel free to open a new issue.</p>
 
 <h2>License</h2>
 
